@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ruang Seni</string>
+    <string name="gambar_satu">Penangkapan Pangeran Diponegoro</string>
+    <string name="gambar_dua">Stasiun Pos Jawa</string>
+    <string name="gambar_tiga">Berburu Rusa</string>
+    <string name="gambar_empat">Enam Pria Berburu Rusa</string>
+    <string name="gambar_lima">Sebuah Banjir di Jawa</string>
+    <string name="karya">Raden Saleh</string>
+    <string name="tahun">1807 – 1880</string>
+</resources>
